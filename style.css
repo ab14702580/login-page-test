@@ -192,6 +192,8 @@ body{
 }
 .box form .btn input:hover{
     letter-spacing: 3px;
+    color: #000;
+    font-weight: 900;
 }
 .box form .btn input::before{
     content: "";
